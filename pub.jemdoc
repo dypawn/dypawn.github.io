@@ -1,0 +1,71 @@
+# jemdoc: {{<div class="container"><div class="row">}}{{</div></div>}}
+== Publcations (Full)
+
+=== 2021
+- Balanced Graph Cut with Exponential Inter-Cluster Compactness \n
+  *Danyang Wu*, Feiping Nie\* (Advisor), Jitao Lu, Rong Wang, Xuelong Li \n 
+  IEEE Transactions on  Artificial Intelligence *(TAI)*, Accepted, 2021 \[[PATH PDF]\] 
+
+- Generalization Bottleneck in Deep Metric Learning \n
+  Zhanxuan Hu\#, *Danyang Wu*\#, Feiping Nie\* (Advisor), Rong Wang *(Co-first Author)*  \n
+  Information Science (INS), 2021 \[[https://www.sciencedirect.com/science/article/pii/S0020025521009543  PDF]\] 
+
+- Sparse PCA via l2,p-Norm Regularization for Unsupervised Feature Selection \n
+  Zhengxin Li, Feiping Nie\* (Advisor), Jintang Bian, *Danyang Wu*, Xuelong Li \n 
+  IEEE Transactions on Pattern Analysis and Machine Intelligence *(TPAMI)*, 2021 \[[https://ieeexplore.ieee.org/abstract/document/9580680  PDF]\] 
+
+- Parameter-Free Consensus Embedding Learning for Multi-View Graph-Based Clustering \n
+  *Danyang Wu*, Feiping Nie\* (Advisor), Rong Wang, Xuelong Li \n 
+  IEEE Transactions on Neural Networks and Learning Systems *(TNNLS)*, 2021 \[[https://ieeexplore.ieee.org/document/9467374  PDF]\] 
+
+- Unsupervised Feature Selection With Weighted and Projected Adaptive Neighbors \n
+  Zhengxin Li, Feiping Nie\* (Advisor), *Danyang Wu*, Xuelong Li \n 
+  IEEE Transactions on Cybernetics *(TCYB)*, 2021 \[[https://ieeexplore.ieee.org/abstract/document/9505625  PDF]\] 
+
+- GSPL: A Succinct Kernel Model for Group-Sparse Subspaces Learning of Multiview Data \n
+  *Danyang Wu*, Jin Xu\*, Xia Dong, Meng Liao, Rong Wang, Feiping Nie\* (Advisor), Xuelong Li \n 
+  International Joint Conference on Artificial Intelligence *(IJCAI)*, 2021 \[[https://www.ijcai.org/proceedings/2021/438  PDF]\] 
+
+- Multi-Directional Multi-Label Learning \n
+  *Danyang Wu*, Shenfei Pei, Feiping Nie, Rong Wang, Xuelong Li \n 
+  Signal Processing *(SIGPRO)*, 2021 \[[https://www.sciencedirect.com/science/article/pii/S016516842100181X  PDF]\] 
+
+- Multi-view Clustering with Iteractive Mechanism \n
+  *Danyang Wu*, Zhanxuan Hu, Feiping Nie, Rong Wang, Xuelong Li \n 
+  Neurocomputing *(NEUCOM)*, 2021, \[[https://www.sciencedirect.com/science/article/pii/S0925231221004513  PDF]\] 
+
+- Dependence-Guided Multi-view Clustering  \n
+  Xia Dong\#, *Danyang Wu*\#, Rong Wang, Xuelong Li  *(Co-first Author)* \n
+  IEEE International Conference on Acoustics, Speech and Signal Processing *(ICASSP)*, 2021 \[[https://ieeexplore.ieee.org/abstract/document/9414971  PDF]\] 
+
+- Coordinate Descent Method for K-means *(Cooperation)* \n
+  Feiping Nie\* (Advisor), Jingjing Xue, *Danyang Wu*, Rong Wang, Xuelong Li \n 
+  IEEE Transactions on Pattern Analysis and Machine Intelligence *(TPAMI)*, 2021 \[[https://ieeexplore.ieee.org/abstract/document/9444882  PDF]\] 
+
+- Multilevel Projections with Adaptive Neighbor Graph for Unsupervised Multi-view Feature Selection \n
+  Han Zhang, *Danyang Wu*, Feiping Nie\* (Advisor), Rong Wang, Xuelong Li \n 
+  Information Fusion *(INFFUS)*, 2021 \[[https://www.sciencedirect.com/science/article/pii/S1566253520304334  PDF]\]
+
+- Multi-View Clustering Based on Invisible Weights \n
+  Ziheng Li, *Danyang Wu*, Feiping Nie\* (Advisor), Rong Wang, Xuelong Li \n 
+  IEEE Signal Processing Letters *(SPL)*, 2021 \[[https://ieeexplore.ieee.org/abstract/document/9429921  PDF]\] 
+
+=== 2020
+
+- Truncated Robust Principle Component Analysis with A General Optimization Framework \n
+  Feiping Nie\* (Advisor), *Danyang Wu*, Rong Wang, Xuelong Li \n 
+  IEEE Transactions on Pattern Analysis and Machine Intelligence *(TPAMI)*, 2020 \[[https://ieeexplore.ieee.org/abstract/document/9210008/  PDF]\] 
+
+- Double-Attentive Principle Component Analysis \n
+  *Danyang Wu*, Han Zhang, Feiping Nie\* (Advisor), Rong Wang, Chao Yang, Xiaoxue Jia, Xuelong Li \n 
+  IEEE Signal Processing Letters *(SPL)*, 2020 \[[https://ieeexplore.ieee.org/abstract/document/9209108  PDF]\] 
+
+- Multi-view Clustering with Mixed Approximation \n
+  *Danyang Wu*, Feiping Nie\* (Advisor), Rong Wang, Xuelong Li \n 
+  IEEE International Conference on Acoustics, Speech and Signal Processing *(ICASSP)*, 2020 \[[https://ieeexplore.ieee.org/abstract/document/9053219  PDF]\] 
+
+- Self-weighted Clustering with Adaptive Neighbors \n
+  Feiping Nie\* (Advisor), *Danyang Wu*, Rong Wang, Xuelong Li \n 
+  IEEE Transactions on Neural Networks and Learning Systems *(TNNLS)*, 2020 
+  \[[https://ieeexplore.ieee.org/abstract/document/8974221  PDF]\] 
+
