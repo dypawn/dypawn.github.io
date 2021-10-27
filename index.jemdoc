@@ -1,0 +1,92 @@
+# jemdoc: {{<div class="container"><div class="row">}}{{</div></div>}}, menu{MENU}{index.html}
+==Danyang Wu
+
+~~~
+{}{img_left}{wdy1.jpeg}{alt text}{131}{160}{}
+Danyang Wu (吴丹阳) \n
+*Ph.D.* in [http://iopen.nwpu.edu.cn School of Artificial Intelligencem, Optics and Electronics (iOpen)] \n
+Northwestern Polytechnical University (NWPU), Xi'an, Shaanxi, China.\n 
+Advisor: [http://iopen.nwpu.edu.cn/info/1329/1213.htm Prof. Feiping Nie] \n
+Email: danyangwu41x \[AT\] mail.nwpu.edu.cn \n
+  \[[PATH  Github]\] \[[PATH  Google Scholar]\] \[[PATH  DBLP]\]
+~~~
+
+== Reasarch Introduction
+I mainly focus on the following two topics:
+- *Graph Machine Learning* 
+I focus on designing novel methods to handle the node/edge level tasks in graph machine learning field, including node representation learning, classification, clustering, link prediction, etc. 
+I also focus on capturing and establishing the connections between Graph Signal processing (GSP) and Graph Machine Learning (GML).
+
+
+- *Multiview Learning* \n
+I focus on designing novel fusion methods to handle several multi-view learning tasks, including multi-view clustering, multi-view feature selection, etc.
+
+=== Education 
+- *Ph.D.*, Sept. 2017 - Present \n
+  Advisor: [http://iopen.nwpu.edu.cn/info/1329/1213.htm Prof. Feiping Nie] \n
+  School of Artificial Intelligencem, Optics and Electronics \n 
+  Northwestern Polytechnical University
+  
+- *B.E.*, Sept. 2013 - June 2017 \n 
+  Advisor: [https://teacher.nwpu.edu.cn/m/2000000073 Prof. Huigang Wang] \n
+  Honors College \n
+  Northwestern Polytechnical University
+
+=== Work Experience
+- *Reasarch Intern*, Oct. 2018 - Jan. 2019  \n
+  Mentor: Dr. Jin Xu \n
+  Data Quality Team, WeChat \n 
+  Tecent Incorporation
+
+ === Competition Experience
+- *Best New Team*, July 2016  \n
+  [https://robosub.org/programs/2016/ Robosub-2016], San Diego, USA.
+
+- *First Prize (Rank: 1/19)*, Mar. 2016  \n
+  [https://sites.google.com/site/singaporeauvc/news/untitledpost SAUVC-2016], Singapore.
+=== Recent News (2020-2021)
+- July 2021, One paper was accepted in *TPAMI*!
+- May 2021, One paper was accepted in *TCYB*!
+- May 2021, One paper was accepted in *TNNLS*!
+- Apr. 2021, One paper was accepted in *IJCAI 2021*!
+- Jan. 2021, One paper was accepted in *ICASSP 2021*!
+- Oct. 2020, One paper was accepted in *TPAMI*!
+- Apr. 2020, One paper was accepted in *TPAMI*!
+- Jan. 2020, One paper was accepted in *ICASSP 2020*!
+
+=== Selected Publications
+- Parameter-Free Consensus Embedding Learning for Multi-View Graph-Based Clustering \n
+  *Danyang Wu*, Feiping Nie\* (Advisor), Rong Wang, Xuelong Li \n 
+  IEEE Transactions on Neural Networks and Learning Systems *(TNNLS)*, 2021 \n
+  \[[PATH  PDF]\] \[[PATH  Code]\] \[[PATH  Bibtex]\]
+
+- A Succinct Kernel Model for Group-Sparse Subspaces Learning of Multiview Data \n
+  *Danyang Wu*, Jin Xu\*, Xia Dong, Meng Liao, Rong Wang, Feiping Nie\* (Advisor), Xuelong Li \n 
+  International Joint Conference on Artificial Intelligence *(IJCAI)*, 2021 \n
+  \[[PATH  PDF]\] \[[PATH  Code]\] \[[PATH  Bibtex]\]
+
+- Dependence-Guided Multi-view Clustering  \n
+  Xia Dong\#, *Danyang Wu*\#, Rong Wang, Xuelong Li  *(Co-first Author)* \n
+  IEEE International Conference on Acoustics, Speech and Signal Processing *(ICASSP)*, 2021 \n
+  \[[PATH  PDF]\] \[[PATH  Code]\] \[[PATH  Bibtex]\]
+
+- Coordinate Descent Method for K-means *(Cooperation)* \n
+  Feiping Nie\* (Advisor), Jingjing Xue, *Danyang Wu*, Rong Wang, Xuelong Li \n 
+  IEEE Transactions on Pattern Analysis and Machine Intelligence *(TPAMI)*, 2021 \n
+  \[[PATH  PDF]\] \[[PATH  Code]\] \[[PATH  Bibtex]\]
+
+- Truncated Robust Principle Component Analysis with A General Optimization Framework \n
+  Feiping Nie\* (Advisor), *Danyang Wu*, Rong Wang, Xuelong Li \n 
+  IEEE Transactions on Pattern Analysis and Machine Intelligence *(TPAMI)*, 2020 \n
+  \[[PATH  PDF]\] \[[PATH  Code]\] \[[PATH  Bibtex]\]
+
+- Multi-view Clustering with Mixed Approximation \n
+  *Danyang Wu*, Feiping Nie\* (Advisor), Rong Wang, Xuelong Li \n 
+  IEEE International Conference on Acoustics, Speech and Signal Processing *(ICASSP)*, 2020 \n
+  \[[PATH  PDF]\] \[[PATH  Code]\] \[[PATH  Bibtex]\]
+
+- Self-weighted Clustering with Adaptive Neighbors \n
+  Feiping Nie\* (Advisor), *Danyang Wu*, Rong Wang, Xuelong Li \n 
+  IEEE Transactions on Neural Networks and Learning Systems *(TNNLS)*, 2020 \n
+  \[[PATH  PDF]\] \[[PATH  Code]\] \[[PATH  Bibtex]\]
+
