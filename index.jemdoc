@@ -1,0 +1,102 @@
+# jemdoc: {{<div class="container"><div class="row">}}{{</div></div>}}, menu{MENU}{index.html}
+==Danyang Wu
+
+~~~
+{}{img_left}{wdy_cam.jpeg}{alt text}{160}{130}{}
+*Danyang Wu (吴丹阳)* \n
+Assistant Professor (Young and Excellent Talents Program-A) \n
+School of Automation Science and Engineering,\n
+Xi'an Jiaotong Univerisy (XJTU), Xi'an, China\n
+
+Email: dy.pawn.cs \[AT\] gmail.com \n
+  \[[https://github.com/dypawn  Github]\] \[[https://scholar.google.com/citations?user=3eMea9wAAAAJ&hl=zh-CN&oi=ao  Google Scholar]\]
+~~~
+
+== Short Bio
+I'm an assistant professor at School of Automation Science and Engineering, Xi'an Jiaotong University. I'm focusing on the theory of *Graph Machine Learning & Graph Signal Processing*, and try to construct new paradigms for Physical Systems Simulations and Robot Learning based on graph. The intersection between different disciplines often brings unexpected surprises, which is the biggest driving force of my research.
+
+I'm looking for collaborators across disciplines, including Graph Machine Learning, Robot Learning and Fluid Mechanics. If you are interested, please feel free to contact me!
+
+
+=== News
+- July 2022, One paper was accepted by *INS*. Congrats to Xia Dong and all the co-authors!
+- July 2022, I joined XJTU as an *Assistant Professor* (Young and Excellent Talents Program-A).
+- May 2022, I have passed the PhD defense in NWPU, thanks to *Prof. Feiping Nie*! 
+- Apr. 2022, One paper was accepted by *IJCAI-2022* (AR=*15%*). Congrats to all the authors!
+- Feb. 2022, One paper was accepted by *PR*. Congrats to all the authors!
+- Jan. 2022, One paper was accepted by *PR*. Congrats to all the authors!
+- Oct. 2021, One paper was accepted by *TAI*. Congrats to all the authors!
+- May 2021, One paper was accepted by *TNNLS*. Congrats to all the authors!
+- Apr. 2021, One paper was accepted by *IJCAI-2021* (AR=*13.9%*). Congrats to all the authors!
+
+=== Education
+- *Ph.D.*, Sept. 2017 - June 2022 \n
+  Advisor: [http://iopen.nwpu.edu.cn/info/1329/1213.htm Prof. Feiping Nie] \n
+  School of Artificial Intelligence, Optics and Electronics \n
+  Northwestern Polytechnical University
+
+- *B.E.*, Sept. 2013 - June 2017 \n
+  Advisor: [https://teacher.nwpu.edu.cn/m/2000000073 Prof. Huigang Wang] \n
+  Honors College \n
+  Northwestern Polytechnical University
+
+=== Work Experience
+- *Assistant Professor*, June 2022 - Present  \n
+  School of Automation Science and Engineering \n
+  Xi'an Jiaotong University
+
+- *Research Intern*, Oct. 2018 - Jan. 2019  \n
+  Mentor: Dr. Jin Xu \n
+  Data Quality Team, WeChat \n
+  Tecent Incorporation
+
+
+
+ === Honors
+- * Ph.D. National Scholarship (Rank: 2/109)*, 2021 \n
+   Northwestern Polytechnical University, China \n
+
+- *Best New Team (Rank: 8/46)*, July 2016  \n
+  [https://robosub.org/programs/2016/ Robosub-2016], San Diego, USA
+
+- *First Prize (Rank: 1/19)*, Mar. 2016  \n
+  [https://sites.google.com/site/singaporeauvc/news/untitledpost SAUVC-2016], Singapore
+
+=== Selected Publications
+
+
+- EMGC2F: Efficient Multi-view Graph Clustering with Comprehensive Fusion \n
+  *Danyang Wu*\*, Jitao Lu\*, Feiping Nie, Rong Wang, Yuan Yuan *(\* Equal contribution)* \n
+  International Joint Conference on Artificial Intelligence *(IJCAI)*, 2022 \n
+  \[PDF\] \[Code\]
+
+- An Attention-based Framework for Multi-view Clustering on Grassmann Manifold \n
+  *Danyang Wu*, Xia Dong, Feiping Nie, Rong Wang, Xuelong Li \n
+  Pattern Recognition *(PR)*, 2022 \n
+   \[PDF\] \[Code\]
+
+- Adaptive-Order Proximity Learning for Graph-based Clustering \n
+  *Danyang Wu*, Feiping Nie, Wei Chang, Jitao Lu, Rong Wang, Xuelong Li \n
+  Pattern Recognition *(PR)*, 2022 \n
+   \[PDF\] \[Code\]
+
+- Balanced Graph Cut with Exponential Inter-Cluster Compactness \n
+  *Danyang Wu*, Feiping Nie, Jitao Lu, Rong Wang, Xuelong Li \n
+  IEEE Transactions on  Artificial Intelligence *(TAI)*, 2021 \n
+   \[PDF\] \[Code\]
+
+- Parameter-Free Consensus Embedding Learning for Multi-View Graph-Based Clustering \n
+  *Danyang Wu*, Feiping Nie, Xia Dong, Rong Wang, Xuelong Li \n
+  IEEE Transactions on Neural Networks and Learning Systems *(TNNLS)*, 2021 \n
+  \[[https://ieeexplore.ieee.org/document/9467374  PDF]\] \[Code\]
+
+- A Succinct Kernel Model for Group-Sparse Subspaces Learning of Multiview Data \n
+  *Danyang Wu*, Jin Xu, Xia Dong, Meng Liao, Rong Wang, Feiping Nie, Xuelong Li \n
+  International Joint Conference on Artificial Intelligence *(IJCAI)*, 2021 \n
+  \[[https://www.ijcai.org/proceedings/2021/438  PDF]\] \[[https://github.com/dypawn/IJCAI2021-GSPL  Code]\]
+
+- Truncated Robust Principle Component Analysis with A General Optimization Framework \n
+  Feiping Nie, *Danyang Wu*, Rong Wang, Xuelong Li \n
+  IEEE Transactions on Pattern Analysis and Machine Intelligence *(TPAMI)*, 2020 \n
+  \[[https://ieeexplore.ieee.org/document/9210008  PDF]\] \[[https://github.com/dypawn/TPAMI2020-TRPCA  Code]\]
+
